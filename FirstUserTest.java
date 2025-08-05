@@ -5,5 +5,7 @@ public class FirstUserTest {
         String name = "user1";
         String email = "user1@exmm.com";
         String file = "edit";
+
+        String file2 = "file2Edit";
     }
 }
