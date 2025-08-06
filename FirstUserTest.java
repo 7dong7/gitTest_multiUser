@@ -13,5 +13,6 @@ public class FirstUserTest {
         String edit = "user1 Edit to 11 line";
 
         String user1 = "user1 config set";
+        String user2 = "user1 config info";
     }
 }
