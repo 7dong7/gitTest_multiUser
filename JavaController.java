@@ -6,5 +6,7 @@ public class JavaController {
 
         String edit = "this javaController edit";
 
+        String stashTest = "stash Test";
+
     }
 }
