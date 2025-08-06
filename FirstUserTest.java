@@ -9,5 +9,7 @@ public class FirstUserTest {
         String file2 = "file2Edit";
 
         String edit2 = "user2 Edit to 11 line";
+
+        String edit = "user1 Edit to 11 line";
     }
 }
